@@ -1,4 +1,4 @@
-# **Deep Food — Classification de 101 Catégories Alimentaires avec CNN, Transfert d’Apprentissage & Précision Mixte**
+# 🍽️ **Deep Food — Classification de 101 Catégories Alimentaires avec CNN, Transfert d’Apprentissage & Précision Mixte**
 
 Ce projet a pour objectif de **classer plus de 100 catégories d’aliments** à partir du dataset *Food101* en utilisant un modèle CNN moderne optimisé via :
 
