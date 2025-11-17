@@ -204,7 +204,6 @@ compare_historys(...)
 
 ## 🚀 **Pistes d’amélioration**
 
-* Fine-tuning du backbone EfficientNet
 * Ajout d’un scheduler (ReduceLROnPlateau)
 * Augmentation de données (tf.image)
 * Test d’EfficientNetV2M ou V2L
